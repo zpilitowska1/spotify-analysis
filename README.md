@@ -1,4 +1,4 @@
-![Slide 1]((https://github.com/zpilitowska1/spotify-analysis/blob/main/Spotify_Analysis_Presentation.png))
+![Slide 1](https://github.com/zpilitowska1/spotify-analysis/blob/main/Spotify_Analysis_Presentation.png)
 ![Slide 2](images/slide2.png)
 ![Slide 3](images/slide1.png)
 ![Slide 4](images/slide2.png)
